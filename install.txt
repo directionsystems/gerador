@@ -1,0 +1,4 @@
+Instalar as dependências
+
+npm install --save-dev cryptojs
+npm install --save bs58
